@@ -2,6 +2,27 @@ package org.example.Day003;
 
 import java.util.HashSet;
 
+/**
+ * Function twoSum(nums, target):
+ *     Create an empty HashMap called map
+ *
+ *     For each index i in the range of nums length:
+ *         Compute complement = target - nums[i]
+ *
+ *         If complement exists in map:
+ *             Return [map.get(complement), i] // Return indices of the two numbers
+ *
+ *         Store nums[i] in map with key as nums[i] and value as i
+ *
+ *     Throw an error "No solution found" if no such pair exists
+ *
+ * Main function:
+ *     Define nums array = [2, 1, 3, 7, 11, 15]
+ *     Define target = 9
+ *
+ *     Call twoSum(nums, target) and store the result in a variable
+ *     Print the result
+ */
 public class PasswordSecurity {
     public static int  longestUniqueSubstring(String password){
         HashSet<Character> uniqueChars = new HashSet<>();

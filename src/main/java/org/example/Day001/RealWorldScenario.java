@@ -31,6 +31,7 @@ public class RealWorldScenario {
             }
 
             map.put(prices[i], i);
+            System.out.println(map);
         }
         throw new IllegalArgumentException("No valid items found.");
 
@@ -38,7 +39,7 @@ public class RealWorldScenario {
 
     public static void main(String[] args) {
 
-        int[] prices = {20, 30, 40, 10};
+        int[] prices = {20,40,35, 30, 40, 10};
         int budget = 50;
 
         int[] result = findItems(prices, budget);

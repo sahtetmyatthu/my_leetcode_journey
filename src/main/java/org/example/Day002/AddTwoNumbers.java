@@ -1,5 +1,17 @@
 package org.example.Day002;
 
+/**
+ *1. Create a dummy node to store the result and a pointer to track the current position.
+ * 2. Initialize carry as 0.
+ * 3. Loop while there are nodes in l1 or l2, or a carry remains:
+ *    - Sum the values of l1, l2, and carry.
+ *    - Compute the new carry (sum / 10).
+ *    - Extract the current digit (sum % 10).
+ *    - Create a new node with the digit and link it to the result list.
+ *    - Move l1 and l2 to their next nodes if available.
+ *
+ * 4. Return the next node of the dummy (head of the resulting list).
+ */
 
 public class AddTwoNumbers {
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2){
@@ -57,8 +69,5 @@ public class AddTwoNumbers {
         printList(result); // Output: 7 -> 0 -> 8 -> null
 
     }
-
-
-
 
 }
