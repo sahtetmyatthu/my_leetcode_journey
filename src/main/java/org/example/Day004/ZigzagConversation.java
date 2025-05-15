@@ -6,7 +6,7 @@ public class ZigzagConversation {
 
         int strLength = s.length();
 
-        if(numRows ==1 || numRows > strLength){
+        if(numRows == 1 || numRows > strLength){
             return s;
         }
 
