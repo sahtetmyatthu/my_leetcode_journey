@@ -1,4 +1,4 @@
-package org.example.arrays;
+package org.example.arrays.moveZeros;
 
 public class TwoPointersMoveZeros {
     public void moveZeroes(int[] nums) {

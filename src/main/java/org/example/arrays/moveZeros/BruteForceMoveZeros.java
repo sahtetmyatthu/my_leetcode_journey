@@ -1,4 +1,4 @@
-package org.example.arrays;
+package org.example.arrays.moveZeros;
 
 // Time O(n)
 // Space O(n)
