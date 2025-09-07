@@ -1,5 +1,5 @@
 
-# 🏆 My Daily LeetCode Journey 🚀
+# 🏆 My Daily LeetCode Journey 🚀 with 🏆 AlgoMaster 300 (3+ Months)Leetcode
 
 Welcome to my **LeetCode Journey**, where I solve coding problems daily and track my progress.  
 This repository serves as a personal log of my solutions, insights, and learning experiences.  
