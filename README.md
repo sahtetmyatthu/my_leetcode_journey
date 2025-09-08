@@ -1,50 +1,45 @@
+# 🚀 My Daily LeetCode Journey 🏆 | AlgoMaster 300+ (3 Months+)
 
-# 🏆 My Daily LeetCode Journey 🚀
-
-Welcome to my **LeetCode Journey**, where I solve coding problems daily and track my progress.  
-This repository serves as a personal log of my solutions, insights, and learning experiences.  
+Welcome to my **LeetCode Journey Log** — where I solve coding problems daily, track my progress, and share insights to grow as a problem solver.  
 
 ---
 
 ## 📌 Why This Journey?  
-Solving LeetCode problems consistently is the best way to improve **problem-solving skills, data structures, algorithms, and coding efficiency**.  
-Here’s what I aim to achieve with this journey:  
+Consistent problem-solving is the best way to sharpen **Data Structures & Algorithms (DSA)** skills, improve coding efficiency, and build discipline.  
 
-✅ Solve at least **one** problem per day 📅  
-✅ Improve my **coding efficiency** in **Java** ☕  
-✅ Strengthen **problem-solving skills** 💡  
-✅ Master **Data Structures & Algorithms** 🚀  
-✅ Track progress, analyze mistakes, and optimize solutions ⚡  
+### Goals 🎯  
+- ✅ Solve **at least one problem per day** 📅  
+- ✅ Improve coding efficiency in **Java ☕**  
+- ✅ Strengthen **problem-solving skills** 💡  
+- ✅ Master **DSA concepts** (Sorting, Recursion, Backtracking, Greedy, BFS, DFS, DP) 🚀  
+- ✅ Track mistakes, analyze, and optimize solutions ⚡  
 
 ---
 
 ## 🛠 Tech Stack & Tools  
-- **Programming Language**: Java ☕  
+- **Language**: Java ☕  
 - **Version Control**: Git & GitHub 🐙  
-- **Algorithms Practiced**: Sorting, Recursion, Backtracking, Greedy, BFS, DFS, DP  
-- **Time Complexity Analysis**: Always aim for **O(n) or better**  
+- **Focus**: Algorithms + Time Complexity Analysis (aim for **O(n)** or better)  
 
 ---
 
 ## 🏆 Challenges & Motivation  
-This journey is all about **consistency and discipline**. Some problems take minutes, others take hours, but the goal is always **growth**.  
-
-⚡ **Consistency beats talent when talent doesn’t work hard.**  
-🚀 **Every challenge is a new learning experience.**  
-🔥 **Some days will be tough, but giving up is not an option.**  
+This journey is built on **discipline and consistency**.  
+- ⏳ Some problems take minutes, others hours — but progress always matters.  
+- ⚡ *Consistency beats talent when talent doesn’t work hard.*  
+- 🔥 Growth comes from pushing through tough days.  
 
 ---
 
 ## 📌 Future Plans  
 - ✅ Solve **100+ LeetCode problems**  
-- ✅ Improve **solution efficiency** (reduce runtime & memory usage)  
-- ✅ Write clean, readable, and optimized code  
-- ✅ Explore **Graph Theory, Advanced DP, and System Design**  
+- ✅ Write **clean, readable, optimized** code  
+- ✅ Dive deeper into **Graph Theory, Advanced DP, and System Design**  
+- ✅ Share learnings, discuss approaches, and collaborate 🚀  
 
 ---
 
-## 🔥 Let's Keep Coding! 🚀  
-If you're on a similar journey, feel free to fork, contribute, or discuss different approaches.  
-💬 **Connect with me on GitHub & let's grow together!**  
+## 🔥 Let’s Keep Coding!  
+If you're on a similar journey, feel free to **fork, contribute, or share ideas**. Let’s grow together! 🌱  
 
-Happy Coding! 😊 🎯  
+💬 Connect with me on GitHub & let’s inspire consistency through code.  
