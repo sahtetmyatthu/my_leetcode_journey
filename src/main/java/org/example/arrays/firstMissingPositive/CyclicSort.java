@@ -26,7 +26,7 @@ public class CyclicSort {
 //        int[] nums1 = {1, 2, 0};
 //        System.out.println("Missing positive in nums1: " + firstMissingPositive(nums1));
 //
-        int[] nums2 = {1,2,3};
+        int[] nums2 = {3,3,1};
         System.out.println("Missing positive in nums2: " + firstMissingPositive(nums2));
 
 //        int[] nums3 = {7, 8, 9, 11, 12};
