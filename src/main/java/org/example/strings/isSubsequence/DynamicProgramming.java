@@ -16,7 +16,7 @@ public class DynamicProgramming {
                 }
             }
         }
-        return dp[n][m] == 0;
+        return dp[n][m] == s.length();
     }
 
     public static void main(String[] args) {
